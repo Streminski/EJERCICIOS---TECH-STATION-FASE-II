@@ -1,0 +1,3 @@
+edad = 20
+
+#ES IGUAL AL EJEMPLO 1 DE LA CLASE 5
